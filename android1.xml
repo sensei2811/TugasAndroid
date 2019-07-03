@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:text="HALO!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#ff0000"/>
+    <TextView
+        android:text="NAMA SAYA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#0000ff"/>
+    <TextView
+        android:text="WAHYU ARI NUGROHO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#bf00ff"/>
+    <TextView
+        android:text="JURUSAN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#ffc0cb"/>
+    <TextView
+        android:text="D3-TI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#808080"/>
+    <TextView
+        android:text="KAMPUS KHARISMA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="#ff7f00"/>
+</LinearLayout>
